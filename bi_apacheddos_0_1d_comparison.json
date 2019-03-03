@@ -1,0 +1,50 @@
+[
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 8713,
+		"common": 8
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 16410,
+		"common": 27
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 136,
+		"common": 27
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 617,
+		"common": 27
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 41692,
+		"common": 27
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1519,
+		"common": 27
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 17912,
+		"common": 27
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 73481,
+		"common": 2
+	}
+]
